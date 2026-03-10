@@ -28,7 +28,7 @@ The workflow is divided into specialized "Expert" nodes to ensure high accuracy:
 ## ⚙️ Setup & Configuration
 1.  **Import Workflow**: Download the `.json` file and import it into your n8n instance.
 2.  **Credentials**: Set up your Google Gemini API Key and Supabase credentials.
-3.  **Vector Store**: Upload your menu/info PDF/JSON to the Vector Store using `text-embedding-004` (Dimension: 768).
+3.  **Vector Store**: Upload your menu/info PDF/JSON to the Vector Store using `models/gemini-embedding-001` (Dimension: 3072).
 4.  **Google Sheets**: Create a sheet with headers: `Order ID`, `Name`, `Phone`, `Address`, `Order Items`, `Total Price`, `Status`.
 
 ---
