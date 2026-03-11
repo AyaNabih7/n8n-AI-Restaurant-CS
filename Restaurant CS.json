@@ -12,7 +12,7 @@
       "typeVersion": 1.2,
       "position": [
         -144,
-        16
+        0
       ],
       "id": "abff26b0-0fa1-4128-836c-b5b987a34e98",
       "name": "Telegram Trigger",
@@ -601,7 +601,7 @@
       "credentials": {
         "googlePalmApi": {
           "id": "BGi5krWHqoUTpHd5",
-          "name": "Google Gemini(PaLM) Api account 2"
+          "name": "Gemini_API"
         }
       }
     },
@@ -884,7 +884,7 @@
     "binaryMode": "separate",
     "availableInMCP": false
   },
-  "versionId": "321ee986-e005-4dfb-a359-80127e4c33c7",
+  "versionId": "02274d73-ddd1-4d74-9513-b85426666d7d",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "d18265c22130b13ab0d8b8488a32911b7eec52e0ebdcb33eb1bced1ad4cd5487"
